@@ -1,0 +1,3 @@
+rootProject.name='AndroidFinance'
+include ':app'
+include ':Core'
